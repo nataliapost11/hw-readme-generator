@@ -14,9 +14,9 @@
   You can dowload the code from the GitHub repository and use poweshell to run the program using command "node index.js"
   
   ## Usage
-  '''bash
+  ```bash
     The application can be executed by entering the command "node index.js" in the command prompt/powershell.  
-  '''
+  ```
 
   ## License
   Copyright (c) nataliapost11. All rights reserved.
